@@ -1,2 +1,2 @@
 # python
-all of the lab experiments 
+All of the lab experiments 
